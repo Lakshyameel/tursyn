@@ -1,0 +1,6 @@
+streamlit
+pandas
+streamlit-webrtc
+openai>=1.0.0
+speechrecognition
+scikit-learn
